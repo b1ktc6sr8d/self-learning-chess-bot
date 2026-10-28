@@ -1,0 +1,49 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# C extensions
+*.obj
+*.o
+*.a
+*.lib
+
+# Environments & Virtual Envs
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# IDE & Editor Configs
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+.project
+
+# OS Generated Files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Testing & Coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Logs & Temporary Files
+*.log
+scratch/
+tmp/
+temp/
+
+# Large Checkpoints (optional comment: GitHub enforces 100MB limit per file)
+# To track only the latest production checkpoint, uncomment:
+# checkpoints/*.pt
+# !checkpoints/model_ep02000.pt
