@@ -1,0 +1,13 @@
+[Event "ChessRL Match (bot-vs-random)"]
+[Site "Local Terminal"]
+[Date "2026.10.20"]
+[Round "?"]
+[White "ChessRL (ep 2000)"]
+[Black "Random"]
+[Result "1/2-1/2"]
+[Time "16:11:39"]
+[GameType "Benchmark"]
+[ModelCheckpoint "checkpoints/model_ep02000.pt"]
+
+1. g3 Na6 2. Bh3 Nc5 3. e4 f6 4. Qh5+ g6 5. Bxd7+ Kxd7 6. Qd5+ Ke8 7. Qxd8+ Kxd8 8. Nc3 Bg7 9. f4 Bg4 10. Nb1 Bc8 11. Nc3 Bf5 12. Nb1 b6 13. Nc3 Be6 14. Nb1 Bxa2 15. Nc3 Na4 16. Nb1 Bh6 17. Nc3 b5 18. Nxb5 Bg5 19. Nxa7 Bd5 20. c4 e5 21. cxd5 Bxf4 22. gxf4 exf4 23. b4 h5 24. Nb5 Nc5 25. Nxc7 Nd3+ 26. Kd1 Nh6 27. b5 Nb4 28. d6 Ra5 29. Ne6+ Kd7 30. Rxa5 Ng8 31. Ra2 Nd5 32. Rb2 Ke8 33. d7+ Ke7 34. d8=Q+ Kxe6 35. Qxd5+ Ke7 36. Qc5+ Ke6 37. Qd5+ Ke7 38. Qc5+ Ke6 1/2-1/2
+

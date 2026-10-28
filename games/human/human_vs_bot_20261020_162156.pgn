@@ -1,0 +1,13 @@
+[Event "Human vs ChessRL Match"]
+[Site "Local Web GUI Studio"]
+[Date "2026.10.20"]
+[Round "?"]
+[White "Human"]
+[Black "ChessRL-Ep2000"]
+[Result "1/2-1/2"]
+[Time "16:21:56"]
+[GameType "Human Match"]
+[ModelCheckpoint "checkpoints\model_ep02000.pt"]
+
+1. e3 g6 2. b3 Bh6 3. Bb2 e5 4. Bxe5 Qf6 5. Bxf6 Nxf6 6. Nc3 Nd5 7. Nxd5 c5 8. Nc7+ Kd8 9. Nxa8 Bg5 10. b4 cxb4 11. Rb1 Rf8 12. Rxb4 f5 13. Nb6 Rf7 14. Nxc8 Kc7 15. Nxa7 Nc6 16. Nxc6 f4 17. Na5 fxe3 18. fxe3 Rxf1+ 19. Kxf1 Bxe3 20. Nxb7 Bc5 21. Nxc5 Kd6 22. Nxd7 Ke6 23. Ne5 Kd6 24. Nxg6 Ke6 25. Nh4 Kd6 26. Qg4 Kc7 27. Qc4+ Kd6 28. Rb5 h5 29. Qc5+ Ke6 30. Qxh5 Kd6 31. Qd5+ Kc7 32. Qc6+ Kd8 33. Rb7 1/2-1/2
+

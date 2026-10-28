@@ -1,0 +1,13 @@
+[Event "Human vs ChessRL Match"]
+[Site "Local Web GUI Studio"]
+[Date "2026.10.20"]
+[Round "?"]
+[White "Human"]
+[Black "ChessRL-Ep2000"]
+[Result "1-0"]
+[Time "16:25:23"]
+[GameType "Human Match"]
+[ModelCheckpoint "checkpoints\model_ep02000.pt"]
+
+1. e3 Nc6 2. Bc4 a5 3. Qh5 Nf6 4. Qxf7# 1-0
+
